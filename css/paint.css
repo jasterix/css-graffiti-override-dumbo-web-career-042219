@@ -4,7 +4,7 @@ body {
 }
 
 #wall {
-  display: hidden;
+
   position: relative;
   margin: 40px auto;
   width: 980px;

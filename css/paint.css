@@ -29,13 +29,13 @@ body {
   display: hidden;
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
-  display: block;
+  /*display: block;*/
 }
 
 #wall #tag-2 {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
-  display: block;
+  /*display: block;*/
 }
 
 div#wall #tag-3.slick {
